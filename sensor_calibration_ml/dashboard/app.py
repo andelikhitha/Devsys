@@ -260,6 +260,6 @@ st.markdown('''
 <div class="footer">
     MEMS Calibration Studio &bull; Glassmorphism Dark Theme &bull; Powered by Streamlit &amp; Scikit-Learn
     <br>
-    GitHub: <a href="https://github.com/andelikhitha" target="_blank" rel="noopener noreferrer">@andelikhitha</a>
+    GitHub: <a href="https://github.com/andelikhitha/Devsys" target="_blank" rel="noopener noreferrer">andelikhitha/Devsys</a>
 </div>
 ''', unsafe_allow_html=True)
